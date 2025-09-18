@@ -88,6 +88,54 @@
 .page-leaderboard .player .table .level {
     width: 100%;
 }
+.page-leaderboard .player .table .level.diamond {
+        background-color: var(--color-background);
+    color: #4EE2EC;
+}
+.page-leaderboard .player .table .level.ruby {
+        background-color: var(--color-background);
+    color: #e82e74;
+}
+.page-leaderboard .player .table .level.emerald {
+        background-color: var(--color-background);
+    color: #50C878;
+}
+.page-leaderboard .player .table .level.jade {
+        background-color: var(--color-background);
+    color: #57ebc3;
+}
+.page-leaderboard .player .table .level.sapphire {
+        background-color: var(--color-background);
+    color: #6ca1f5;
+}
+.page-leaderboard .player .table .level.platinum {
+        background-color: var(--color-background);
+    color: #e7cffa;
+}
+.page-leaderboard .player .table .level.amber {
+        background-color: var(--color-background);
+    color: #ff9d00;
+}
+.page-leaderboard .player .table .level.gold {
+        background-color: var(--color-background);
+    color: #ffcc00;
+}
+.page-leaderboard .player .table .level.silver {
+        background-color: var(--color-background);
+    color: #C0C0C0;
+}
+.page-leaderboard .player .table .level.bronze {
+        background-color: var(--color-background);
+    color: #CD7F32;
+}
+.page-leaderboard .player .table .level.beginner {
+        background-color: var(--color-background);
+    color: #fcfffd;
+}
+.page-leaderboard .player .table .level.wood {
+        background-color: var(--color-background);
+    color: #997f59;
+}
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
