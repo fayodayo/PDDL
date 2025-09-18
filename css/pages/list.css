@@ -31,6 +31,54 @@
     overflow-wrap: anywhere;
     cursor: pointer;
 }
+.page-list .list .level.diamond button {
+        background-color: var(--color-background);
+    color: #4EE2EC;
+}
+.page-list .list .level.ruby button {
+        background-color: var(--color-background);
+    color: #e82e74;
+}
+.page-list .list .level.emerald button {
+        background-color: var(--color-background);
+    color: #50C878;
+}
+.page-list .list .level.jade button {
+        background-color: var(--color-background);
+    color: #57ebc3;
+}
+.page-list .list .level.sapphire button {
+        background-color: var(--color-background);
+    color: #6ca1f5;
+}
+.page-list .list .level.platinum button {
+        background-color: var(--color-background);
+    color: #e7cffa;
+}
+.page-list .list .level.amber button {
+        background-color: var(--color-background);
+    color: #ff9d00;
+}
+.page-list .list .level.gold button {
+        background-color: var(--color-background);
+    color: #ffcc00;
+}
+.page-list .list .level.silver button {
+        background-color: var(--color-background);
+    color: #C0C0C0;
+}
+.page-list .list .level.bronze button {
+        background-color: var(--color-background);
+    color: #CD7F32;
+}
+.page-list .list .level.beginner button {
+        background-color: var(--color-background);
+    color: #fcfffd;
+}
+.page-list .list .level.wood button {
+        background-color: var(--color-background);
+    color: #997f59;
+}
 .page-list .list .level.error button {
     color: var(--color-error);
     cursor: not-allowed;
