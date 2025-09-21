@@ -8,5 +8,10 @@
     "percentToQualify": "63",
     "password": "-",
     "records": [
+                                {
+            "user": "sp0nplays",
+            "link": "https://www.youtube.com/watch?v=YvJXioenoKU",
+            "percent": 100
+        }
     ]
 }
