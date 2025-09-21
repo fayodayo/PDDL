@@ -8,5 +8,10 @@
     "percentToQualify": "70",
     "password": "-",
     "records": [
+                                                        {
+            "user": "ryanbro_hi",
+            "link": "https://youtu.be/qxJOcNO-fh0",
+            "percent": 100
+        }
     ]
 }
