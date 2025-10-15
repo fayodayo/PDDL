@@ -54,7 +54,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Rank</div>
-                            <p>{{ level.password || '' }}</p>
+                            <p>{{ level.password }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
