@@ -53,8 +53,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Level key</div>
-                            <p>{{ level.key || '' }}</p>
+                            <div class="type-title-sm">Rank</div>
+                            <p>{{ password || '' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
