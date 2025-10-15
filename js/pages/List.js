@@ -28,7 +28,7 @@ export default {
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level , 'diamond': i <= 4 , 'ruby': (i >= 5) && (i <= 14) , 'emerald': (i >= 15) && (i <= 29) , 
+                        <td class="level" :class="{ 'active': selected == i, 'error': !level , 'pearl': i <= 1 , 'diamond': (i >= 1) && (i <= 4) , 'ruby': (i >= 5) && (i <= 14) , 'emerald': (i >= 15) && (i <= 29) , 
                         'jade': (i >= 30) && (i <= 44) , 'sapphire': (i >= 45) && (i <= 59) , 'platinum': (i >= 60) && (i <= 74) , 'amber': (i >= 75) && (i <= 89) , 'gold': (i >= 90) && (i <= 109) , 
                         'silver': (i >= 110) && (i <= 124) , 'bronze': (i >= 125) && (i <= 139) , 'beginner': (i >= 140) && (i <= 149) , 'wood': (i >= 150)}">
                             <button @click="selected = i">
