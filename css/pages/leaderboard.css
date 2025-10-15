@@ -88,6 +88,10 @@
 .page-leaderboard .player .table .level {
     width: 100%;
 }
+.page-leaderboard .player .table .level.pearl {
+        background-color: var(--color-background);
+    color: #F8C8DC;
+}
 .page-leaderboard .player .table .level.diamond {
         background-color: var(--color-background);
     color: #4EE2EC;
