@@ -52,7 +52,7 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" class="level" :class="{ 'diamond': score.rank <= 5 , 'ruby': (score.rank >= 6) && (score.rank <= 15) , 'emerald': (score.rank >= 16) && (score.rank <= 30) , 
+                                    <a class="type-label-lg" class="level" :class="{ 'pearl': i <= 1 , 'diamond': (i >= 2) && (i <= 8) , 'ruby': (i >= 9) && (i <= 20) , 'emerald': (i >= 21) && (i <= 30) , 
                         'jade': (score.rank >= 31) && (score.rank <= 45) , 'sapphire': (score.rank >= 46) && (score.rank <= 60) , 'platinum': (score.rank >= 61) && (score.rank <= 75) , 'amber': (score.rank >= 76) && (score.rank <= 90) , 'gold': (score.rank >= 91) && (score.rank <= 110) , 
                         'silver': (score.rank >= 111) && (score.rank <= 125) , 'bronze': (score.rank >= 126) && (score.rank <= 140) , 'beginner': (score.rank >= 141) && (score.rank <= 150) , 'wood': (score.rank >= 151)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
