@@ -30,7 +30,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 'pearl': i <= 1 , 'diamond': (i >= 1) && (i <= 7) , 'ruby': (i >= 8) && (i <= 19) , 'emerald': (i >= 20) && (i <= 34) , 
                         'jade': (i >= 35) && (i <= 50) , 'sapphire': (i >= 51) && (i <= 69) , 'platinum': (i >= 70) && (i <= 86) , 'amber': (i >= 87) && (i <= 103) , 'gold': (i >= 104) && (i <= 124) , 
-                        'silver': (i >= 125) && (i <= 141) , 'bronze': (i >= 142) && (i <= 167) , 'beginner': (i >= 168) && (i <= 183) , 'wood': (i >= 184)}">
+                        'silver': (i >= 125) && (i <= 142) , 'bronze': (i >= 143) && (i <= 168) , 'beginner': (i >= 169) && (i <= 184) , 'wood': (i >= 185)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
