@@ -8,6 +8,11 @@
     "percentToQualify": "68",
     "password": "-",
     "records": [
+                {
+            "user": "RedNazFM",
+            "link": "https://www.youtube.com/watch?v=aqPyjivDuAg",
+            "percent": 100
+        },
         {
             "user": "fayodayo",
             "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
