@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                {
+            "user": "RedNazFM",
+            "link": "https://www.youtube.com/watch?v=eqRANpn_1xs",
+            "percent": 100
+        }
     ]
 }
