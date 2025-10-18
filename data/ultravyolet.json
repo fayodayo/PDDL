@@ -8,5 +8,10 @@
     "percentToQualify": "40",
     "password": "Pearl",
     "records": [
+                                      {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=7UXXxKGz8Bg",
+            "percent": 100
+        }
     ]
 }
