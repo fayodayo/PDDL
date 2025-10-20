@@ -29,8 +29,8 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 'pearl': i <= 1 , 'diamond': (i >= 1) && (i <= 7) , 'ruby': (i >= 8) && (i <= 20) , 'emerald': (i >= 21) && (i <= 35) , 
-                        'jade': (i >= 36) && (i <= 51) , 'sapphire': (i >= 52) && (i <= 70) , 'platinum': (i >= 71) && (i <= 87) , 'amber': (i >= 88) && (i <= 105) , 'gold': (i >= 106) && (i <= 126) , 
-                        'silver': (i >= 127) && (i <= 144) , 'bronze': (i >= 145) && (i <= 169) , 'beginner': (i >= 170) && (i <= 185) , 'wood': (i >= 186)}">
+                        'jade': (i >= 36) && (i <= 51) , 'sapphire': (i >= 52) && (i <= 70) , 'platinum': (i >= 71) && (i <= 87) , 'amber': (i >= 88) && (i <= 106) , 'gold': (i >= 107) && (i <= 127) , 
+                        'silver': (i >= 128) && (i <= 144) , 'bronze': (i >= 145) && (i <= 169) , 'beginner': (i >= 170) && (i <= 185) , 'wood': (i >= 186)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
