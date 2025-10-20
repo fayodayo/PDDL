@@ -52,9 +52,9 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 20) , 'emerald': (score.rank >= 21) && (score.rank <= 35) , 
-                        'jade': (score.rank >= 36) && (score.rank <= 51) , 'sapphire': (score.rank >= 52) && (score.rank <= 70) , 'platinum': (score.rank >= 71) && (score.rank <= 87) , 'amber': (score.rank >= 88) && (score.rank <= 105) , 'gold': (score.rank >= 106) && (score.rank <= 126) , 
-                        'silver': (score.rank >= 127) && (score.rank <= 144) , 'bronze': (score.rank >= 145) && (score.rank <= 169) , 'beginner': (score.rank >= 170) && (score.rank <= 185) , 'wood': (score.rank >= 186)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 21) , 'emerald': (score.rank >= 22) && (score.rank <= 36) , 
+                        'jade': (score.rank >= 37) && (score.rank <= 52) , 'sapphire': (score.rank >= 53) && (score.rank <= 71) , 'platinum': (score.rank >= 72) && (score.rank <= 88) , 'amber': (score.rank >= 89) && (score.rank <= 106) , 'gold': (score.rank >= 107) && (score.rank <= 127) , 
+                        'silver': (score.rank >= 128) && (score.rank <= 145) , 'bronze': (score.rank >= 146) && (score.rank <= 170) , 'beginner': (score.rank >= 171) && (score.rank <= 186) , 'wood': (score.rank >= 187)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -68,9 +68,9 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 20) , 'emerald': (score.rank >= 21) && (score.rank <= 35) , 
-                        'jade': (score.rank >= 36) && (score.rank <= 51) , 'sapphire': (score.rank >= 52) && (score.rank <= 70) , 'platinum': (score.rank >= 71) && (score.rank <= 87) , 'amber': (score.rank >= 88) && (score.rank <= 105) , 'gold': (score.rank >= 106) && (score.rank <= 126) , 
-                        'silver': (score.rank >= 127) && (score.rank <= 144) , 'bronze': (score.rank >= 145) && (score.rank <= 169) , 'beginner': (score.rank >= 170) && (score.rank <= 185) , 'wood': (score.rank >= 186)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 21) , 'emerald': (score.rank >= 22) && (score.rank <= 36) , 
+                        'jade': (score.rank >= 37) && (score.rank <= 52) , 'sapphire': (score.rank >= 53) && (score.rank <= 71) , 'platinum': (score.rank >= 72) && (score.rank <= 88) , 'amber': (score.rank >= 89) && (score.rank <= 106) , 'gold': (score.rank >= 107) && (score.rank <= 127) , 
+                        'silver': (score.rank >= 128) && (score.rank <= 145) , 'bronze': (score.rank >= 146) && (score.rank <= 170) , 'beginner': (score.rank >= 171) && (score.rank <= 186) , 'wood': (score.rank >= 187)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -84,9 +84,9 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 20) , 'emerald': (score.rank >= 21) && (score.rank <= 35) , 
-                        'jade': (score.rank >= 36) && (score.rank <= 51) , 'sapphire': (score.rank >= 52) && (score.rank <= 70) , 'platinum': (score.rank >= 71) && (score.rank <= 87) , 'amber': (score.rank >= 88) && (score.rank <= 105) , 'gold': (score.rank >= 106) && (score.rank <= 126) , 
-                        'silver': (score.rank >= 127) && (score.rank <= 144) , 'bronze': (score.rank >= 145) && (score.rank <= 169) , 'beginner': (score.rank >= 170) && (score.rank <= 185) , 'wood': (score.rank >= 186)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
+                                    <a class="type-label-lg" class="level" :class="{ 'pearl': score.rank <= 1 , 'diamond': (score.rank >= 2) && (score.rank <= 8) , 'ruby': (score.rank >= 9) && (score.rank <= 21) , 'emerald': (score.rank >= 22) && (score.rank <= 36) , 
+                        'jade': (score.rank >= 37) && (score.rank <= 52) , 'sapphire': (score.rank >= 53) && (score.rank <= 71) , 'platinum': (score.rank >= 72) && (score.rank <= 88) , 'amber': (score.rank >= 89) && (score.rank <= 106) , 'gold': (score.rank >= 107) && (score.rank <= 127) , 
+                        'silver': (score.rank >= 128) && (score.rank <= 145) , 'bronze': (score.rank >= 146) && (score.rank <= 170) , 'beginner': (score.rank >= 171) && (score.rank <= 186) , 'wood': (score.rank >= 187)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
