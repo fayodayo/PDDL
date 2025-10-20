@@ -28,9 +28,9 @@ export default {
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level , 'pearl': i <= 1 , 'diamond': (i >= 1) && (i <= 7) , 'ruby': (i >= 8) && (i <= 19) , 'emerald': (i >= 20) && (i <= 34) , 
-                        'jade': (i >= 35) && (i <= 50) , 'sapphire': (i >= 51) && (i <= 69) , 'platinum': (i >= 70) && (i <= 86) , 'amber': (i >= 87) && (i <= 104) , 'gold': (i >= 105) && (i <= 125) , 
-                        'silver': (i >= 126) && (i <= 143) , 'bronze': (i >= 144) && (i <= 168) , 'beginner': (i >= 169) && (i <= 184) , 'wood': (i >= 185)}">
+                        <td class="level" :class="{ 'active': selected == i, 'error': !level , 'pearl': i <= 1 , 'diamond': (i >= 1) && (i <= 7) , 'ruby': (i >= 8) && (i <= 20) , 'emerald': (i >= 21) && (i <= 35) , 
+                        'jade': (i >= 36) && (i <= 51) , 'sapphire': (i >= 52) && (i <= 70) , 'platinum': (i >= 71) && (i <= 87) , 'amber': (i >= 88) && (i <= 105) , 'gold': (i >= 106) && (i <= 126) , 
+                        'silver': (i >= 127) && (i <= 144) , 'bronze': (i >= 145) && (i <= 169) , 'beginner': (i >= 170) && (i <= 185) , 'wood': (i >= 186)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
