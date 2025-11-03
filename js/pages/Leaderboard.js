@@ -64,8 +64,8 @@ export default {
                         'gold': (score.rank >= 114) && (score.rank <= 136) , 
                         'silver': (score.rank >= 137) && (score.rank <= 153) , 
                         'bronze': (score.rank >= 154) && (score.rank <= 178) , 
-                        'beginner': (score.rank >= 179) && (score.rank <= 194) , 
-                        'wood': (score.rank >= 195)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'beginner': (score.rank >= 179) && (score.rank <= 192) , 
+                        'wood': (score.rank >= 193)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -91,8 +91,8 @@ export default {
                         'gold': (score.rank >= 114) && (score.rank <= 136) , 
                         'silver': (score.rank >= 137) && (score.rank <= 153) , 
                         'bronze': (score.rank >= 154) && (score.rank <= 178) , 
-                        'beginner': (score.rank >= 179) && (score.rank <= 194) , 
-                        'wood': (score.rank >= 195)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'beginner': (score.rank >= 179) && (score.rank <= 192) , 
+                        'wood': (score.rank >= 193)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -118,8 +118,8 @@ export default {
                         'gold': (score.rank >= 114) && (score.rank <= 136) , 
                         'silver': (score.rank >= 137) && (score.rank <= 153) , 
                         'bronze': (score.rank >= 154) && (score.rank <= 178) , 
-                        'beginner': (score.rank >= 179) && (score.rank <= 194) , 
-                        'wood': (score.rank >= 195)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
+                        'beginner': (score.rank >= 179) && (score.rank <= 192) , 
+                        'wood': (score.rank >= 193)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
