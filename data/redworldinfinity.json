@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Ruby",
     "records": [
+                        {
+            "user": "sp0nplays",
+            "link": "https://www.youtube.com/watch?v=mbHegf-GLkE",
+            "percent": 100
+        }
     ]
 }
