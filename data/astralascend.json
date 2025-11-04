@@ -12,6 +12,11 @@
             "user": "duck",
             "link": "https://www.youtube.com/watch?v=vSueGRv7E7o&ab_channel=duck",
             "percent": 100
+        },
+                        {
+            "user": "sp0nplays",
+            "link": "https://www.youtube.com/watch?v=rEzidGi0aqM",
+            "percent": 100
         }
     ]
 }
