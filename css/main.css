@@ -3,9 +3,9 @@
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #F4831B;
+    --color-primary: #b30000;
     --color-primary-disabled: #000000;
-    --color-on-primary: black;
+    --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
 }
