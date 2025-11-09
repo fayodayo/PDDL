@@ -37,8 +37,8 @@ export default {
                         'sapphire': (i >= 57) && (i <= 76) , 
                         'platinum': (i >= 77) && (i <= 96) , 
                         'amber': (i >= 97) && (i <= 114) , 
-                        'gold': (i >= 115) && (i <= 139) , 
-                        'silver': (i >= 140) && (i <= 156) , 
+                        'gold': (i >= 115) && (i <= 140) , 
+                        'silver': (i >= 141) && (i <= 156) , 
                         'bronze': (i >= 157) && (i <= 181) , 
                         'beginner': (i >= 182) && (i <= 195) , 
                         'wood': (i >= 196)}">
