@@ -8,5 +8,10 @@
     "percentToQualify": "71",
     "password": "Platinum",
     "records": [
+                                    {
+            "user": "DDev_",
+            "link": "https://www.youtube.com/watch?v=UCnskhBIiZs",
+            "percent": 100
+        }
     ]
 }
