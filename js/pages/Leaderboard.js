@@ -61,8 +61,8 @@ export default {
                         'sapphire': (score.rank >= 58) && (score.rank <= 77) , 
                         'platinum': (score.rank >= 78) && (score.rank <= 97) , 
                         'amber': (score.rank >= 98) && (score.rank <= 115) , 
-                        'gold': (score.rank >= 116) && (score.rank <= 140) , 
-                        'silver': (score.rank >= 141) && (score.rank <= 157) , 
+                        'gold': (score.rank >= 116) && (score.rank <= 141) , 
+                        'silver': (score.rank >= 142) && (score.rank <= 157) , 
                         'bronze': (score.rank >= 158) && (score.rank <= 182) , 
                         'beginner': (score.rank >= 183) && (score.rank <= 196) , 
                         'wood': (score.rank >= 197)}"  target="_blank" :href="score.link">{{ score.level }}</a>
