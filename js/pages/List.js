@@ -113,6 +113,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        MUST READ (15/11/2025) - PDDL AND PDCL WILL CONTINUE TO BE INFREQUENT AS OF RECENT DUE TO BEING INCREASINGLY BUSY, THIS IS FOR ME (PDDL) AND JOAQFIRR (PDCL)
+                    </p>
+                    <p>
                         Achieved the record without using hacks (External FPS Boosters are allowed)
                     </p>
                     <p>
