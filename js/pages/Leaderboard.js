@@ -54,8 +54,8 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 1 , 
-                        'diamond': (score.rank >= 2) && (score.rank <= 9) , 
-                        'ruby': (score.rank >= 10) && (score.rank <= 26) , 
+                        'diamond': (score.rank >= 2) && (score.rank <= 8) , 
+                        'ruby': (score.rank >= 9) && (score.rank <= 26) , 
                         'emerald': (score.rank >= 27) && (score.rank <= 39) , 
                         'jade': (score.rank >= 40) && (score.rank <= 58) , 
                         'sapphire': (score.rank >= 59) && (score.rank <= 78) , 
@@ -81,8 +81,8 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 1 , 
-                        'diamond': (score.rank >= 2) && (score.rank <= 9) , 
-                        'ruby': (score.rank >= 10) && (score.rank <= 26) , 
+                        'diamond': (score.rank >= 2) && (score.rank <= 8) , 
+                        'ruby': (score.rank >= 9) && (score.rank <= 26) , 
                         'emerald': (score.rank >= 27) && (score.rank <= 39) , 
                         'jade': (score.rank >= 40) && (score.rank <= 58) , 
                         'sapphire': (score.rank >= 59) && (score.rank <= 78) , 
@@ -108,8 +108,8 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 1 , 
-                        'diamond': (score.rank >= 2) && (score.rank <= 9) , 
-                        'ruby': (score.rank >= 10) && (score.rank <= 26) , 
+                        'diamond': (score.rank >= 2) && (score.rank <= 8) , 
+                        'ruby': (score.rank >= 9) && (score.rank <= 26) , 
                         'emerald': (score.rank >= 27) && (score.rank <= 39) , 
                         'jade': (score.rank >= 40) && (score.rank <= 58) , 
                         'sapphire': (score.rank >= 59) && (score.rank <= 78) , 
