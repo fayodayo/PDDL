@@ -8,5 +8,10 @@
     "percentToQualify": "46",
     "password": "Ruby",
     "records": [
+                                      {
+            "user": "ryanbro_hi",
+            "link": "https://youtu.be/EvQ2PchCImo",
+            "percent": 100
+        }
     ]
 }
