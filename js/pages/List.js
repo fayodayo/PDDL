@@ -32,16 +32,16 @@ export default {
                         'pearl': i <= 1 , 
                         'diamond': (i >= 1) && (i <= 7) , 
                         'ruby': (i >= 8) && (i <= 25) , 
-                        'emerald': (i >= 26) && (i <= 39) , 
-                        'jade': (i >= 40) && (i <= 59) , 
-                        'sapphire': (i >= 60) && (i <= 81) , 
-                        'platinum': (i >= 82) && (i <= 101) , 
-                        'amber': (i >= 102) && (i <= 119) , 
-                        'gold': (i >= 120) && (i <= 147) , 
-                        'silver': (i >= 148) && (i <= 163) , 
-                        'bronze': (i >= 164) && (i <= 188) , 
-                        'beginner': (i >= 190) && (i <= 202) , 
-                        'wood': (i >= 203)}">
+                        'emerald': (i >= 26) && (i <= 40) , 
+                        'jade': (i >= 41) && (i <= 60) , 
+                        'sapphire': (i >= 61) && (i <= 83) , 
+                        'platinum': (i >= 84) && (i <= 103) , 
+                        'amber': (i >= 104) && (i <= 121) , 
+                        'gold': (i >= 122) && (i <= 149) , 
+                        'silver': (i >= 150) && (i <= 165) , 
+                        'bronze': (i >= 166) && (i <= 190) , 
+                        'beginner': (i >= 191) && (i <= 204) , 
+                        'wood': (i >= 205)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
