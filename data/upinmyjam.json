@@ -8,5 +8,10 @@
     "percentToQualify": "65",
     "password": "-",
     "records": [
+                                        {
+            "user": "stud_yoon",
+            "link": "https://www.youtube.com/watch?v=9DKnqYAhSdU",
+            "percent": 100
+        }
     ]
 }
