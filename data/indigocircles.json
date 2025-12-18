@@ -3,10 +3,15 @@
     "name": "Indigo Circles",
     "author": "joshuan433",
     "creators": [],
-    "verifier": "ryanbro_hi",
-    "verification": "https://youtu.be/hyyfpB2AQmw",
+    "verifier": "GameUK",
+    "verification": "https://www.youtube.com/watch?v=QXzQTAdjkro",
     "percentToQualify": "70",
     "password": "-",
     "records": [
+                        {
+            "user": "ryanbro_hi",
+            "link": "https://youtu.be/hyyfpB2AQmw",
+            "percent": 100
+        }
     ]
 }
