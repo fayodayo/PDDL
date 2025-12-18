@@ -6,7 +6,12 @@
     "verifier": "Gandstar",
     "verification": "https://www.youtube.com/watch?v=HtFzdoDT12g",
     "percentToQualify": "66",
-    "password": "Jade",
+    "password": "Sapphire",
     "records": [
+                                                        {
+            "user": "Rein",
+            "link": "https://youtu.be/QQekwxORvzo?si=cOhOubRs0bWpG7_b",
+            "percent": 100
+        }
     ]
 }
