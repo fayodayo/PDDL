@@ -34,14 +34,14 @@ export default {
                         'ruby': (i >= 10) && (i <= 27) , 
                         'emerald': (i >= 28) && (i <= 42) , 
                         'jade': (i >= 43) && (i <= 60) , 
-                        'sapphire': (i >= 61) && (i <= 85) , 
-                        'platinum': (i >= 86) && (i <= 106) , 
-                        'amber': (i >= 107) && (i <= 124) , 
-                        'gold': (i >= 125) && (i <= 153) , 
-                        'silver': (i >= 154) && (i <= 169) , 
-                        'bronze': (i >= 170) && (i <= 193) , 
-                        'beginner': (i >= 194) && (i <= 207) , 
-                        'wood': (i >= 208)}">
+                        'sapphire': (i >= 61) && (i <= 86) , 
+                        'platinum': (i >= 87) && (i <= 107) , 
+                        'amber': (i >= 108) && (i <= 125) , 
+                        'gold': (i >= 126) && (i <= 154) , 
+                        'silver': (i >= 155) && (i <= 170) , 
+                        'bronze': (i >= 171) && (i <= 194) , 
+                        'beginner': (i >= 195) && (i <= 208) , 
+                        'wood': (i >= 209)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
