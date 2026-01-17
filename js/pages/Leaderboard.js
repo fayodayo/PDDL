@@ -54,18 +54,18 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 2 , 
-                        'diamond': (score.rank >= 3) && (score.rank <= 10) , 
-                        'ruby': (score.rank >= 11) && (score.rank <= 27) , 
-                        'emerald': (score.rank >= 28) && (score.rank <= 43) , 
-                        'jade': (score.rank >= 44) && (score.rank <= 64) , 
-                        'sapphire': (score.rank >= 65) && (score.rank <= 92) , 
-                        'platinum': (score.rank >= 93) && (score.rank <= 115) , 
-                        'amber': (score.rank >= 116) && (score.rank <= 135) , 
-                        'gold': (score.rank >= 136) && (score.rank <= 161) , 
-                        'silver': (score.rank >= 162) && (score.rank <= 177) , 
-                        'bronze': (score.rank >= 178) && (score.rank <= 202) , 
-                        'beginner': (score.rank >= 203) && (score.rank <= 216) , 
-                        'wood': (score.rank >= 217)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'diamond': (score.rank >= 3) && (score.rank <= 11) , 
+                        'ruby': (score.rank >= 12) && (score.rank <= 28) , 
+                        'emerald': (score.rank >= 29) && (score.rank <= 44) , 
+                        'jade': (score.rank >= 45) && (score.rank <= 65) , 
+                        'sapphire': (score.rank >= 66) && (score.rank <= 93) , 
+                        'platinum': (score.rank >= 94) && (score.rank <= 116) , 
+                        'amber': (score.rank >= 117) && (score.rank <= 137) , 
+                        'gold': (score.rank >= 138) && (score.rank <= 164) , 
+                        'silver': (score.rank >= 165) && (score.rank <= 180) , 
+                        'bronze': (score.rank >= 181) && (score.rank <= 205) , 
+                        'beginner': (score.rank >= 206) && (score.rank <= 219) , 
+                        'wood': (score.rank >= 220)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -81,18 +81,18 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 2 , 
-                        'diamond': (score.rank >= 3) && (score.rank <= 10) , 
-                        'ruby': (score.rank >= 11) && (score.rank <= 27) , 
-                        'emerald': (score.rank >= 28) && (score.rank <= 43) , 
-                        'jade': (score.rank >= 44) && (score.rank <= 64) , 
-                        'sapphire': (score.rank >= 65) && (score.rank <= 92) , 
-                        'platinum': (score.rank >= 93) && (score.rank <= 115) , 
-                        'amber': (score.rank >= 116) && (score.rank <= 135) , 
-                        'gold': (score.rank >= 136) && (score.rank <= 161) , 
-                        'silver': (score.rank >= 162) && (score.rank <= 177) , 
-                        'bronze': (score.rank >= 178) && (score.rank <= 202) , 
-                        'beginner': (score.rank >= 203) && (score.rank <= 216) , 
-                        'wood': (score.rank >= 217)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'diamond': (score.rank >= 3) && (score.rank <= 11) , 
+                        'ruby': (score.rank >= 12) && (score.rank <= 28) , 
+                        'emerald': (score.rank >= 29) && (score.rank <= 44) , 
+                        'jade': (score.rank >= 45) && (score.rank <= 65) , 
+                        'sapphire': (score.rank >= 66) && (score.rank <= 93) , 
+                        'platinum': (score.rank >= 94) && (score.rank <= 116) , 
+                        'amber': (score.rank >= 117) && (score.rank <= 137) , 
+                        'gold': (score.rank >= 138) && (score.rank <= 164) , 
+                        'silver': (score.rank >= 165) && (score.rank <= 180) , 
+                        'bronze': (score.rank >= 181) && (score.rank <= 205) , 
+                        'beginner': (score.rank >= 206) && (score.rank <= 219) , 
+                        'wood': (score.rank >= 220)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
@@ -108,18 +108,18 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'pearl': score.rank <= 2 , 
-                        'diamond': (score.rank >= 3) && (score.rank <= 10) , 
-                        'ruby': (score.rank >= 11) && (score.rank <= 27) , 
-                        'emerald': (score.rank >= 28) && (score.rank <= 43) , 
-                        'jade': (score.rank >= 44) && (score.rank <= 64) , 
-                        'sapphire': (score.rank >= 65) && (score.rank <= 92) , 
-                        'platinum': (score.rank >= 93) && (score.rank <= 115) , 
-                        'amber': (score.rank >= 116) && (score.rank <= 135) , 
-                        'gold': (score.rank >= 136) && (score.rank <= 161) , 
-                        'silver': (score.rank >= 162) && (score.rank <= 177) , 
-                        'bronze': (score.rank >= 178) && (score.rank <= 202) , 
-                        'beginner': (score.rank >= 203) && (score.rank <= 216) , 
-                        'wood': (score.rank >= 217)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
+                        'diamond': (score.rank >= 3) && (score.rank <= 11) , 
+                        'ruby': (score.rank >= 12) && (score.rank <= 28) , 
+                        'emerald': (score.rank >= 29) && (score.rank <= 44) , 
+                        'jade': (score.rank >= 45) && (score.rank <= 65) , 
+                        'sapphire': (score.rank >= 66) && (score.rank <= 93) , 
+                        'platinum': (score.rank >= 94) && (score.rank <= 116) , 
+                        'amber': (score.rank >= 117) && (score.rank <= 137) , 
+                        'gold': (score.rank >= 138) && (score.rank <= 164) , 
+                        'silver': (score.rank >= 165) && (score.rank <= 180) , 
+                        'bronze': (score.rank >= 181) && (score.rank <= 205) , 
+                        'beginner': (score.rank >= 206) && (score.rank <= 219) , 
+                        'wood': (score.rank >= 220)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
