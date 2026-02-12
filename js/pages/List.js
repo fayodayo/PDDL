@@ -30,8 +30,8 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
                         'pearl': i <= 2 , 
-                        'diamond': (i >= 2) && (i <= 10) , 
-                        'ruby': (i >= 11) && (i <= 28) , 
+                        'diamond': (i >= 2) && (i <= 9) , 
+                        'ruby': (i >= 10) && (i <= 28) , 
                         'emerald': (i >= 29) && (i <= 45) , 
                         'jade': (i >= 46) && (i <= 66) , 
                         'sapphire': (i >= 67) && (i <= 96) , 
