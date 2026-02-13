@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Amber",
     "records": [
+                              {
+            "user": "phong",
+            "link": "https://youtu.be/_hD0PEl9ZN4",
+            "percent": 100
+        }
     ]
 }
