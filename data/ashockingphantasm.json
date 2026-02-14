@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Platinum",
     "records": [
+                                      {
+            "user": "jenetic",
+            "link": "https://youtu.be/m3LRqyb-WhY",
+            "percent": 100
+        }
     ]
 }
