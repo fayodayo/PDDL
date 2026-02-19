@@ -31,17 +31,17 @@ export default {
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
                         'pearl': i <= 2 , 
                         'diamond': (i >= 2) && (i <= 10) , 
-                        'ruby': (i >= 11) && (i <= 28) , 
-                        'emerald': (i >= 29) && (i <= 45) , 
-                        'jade': (i >= 46) && (i <= 66) , 
-                        'sapphire': (i >= 67) && (i <= 98) , 
-                        'platinum': (i >= 99) && (i <= 123) , 
-                        'amber': (i >= 124) && (i <= 151) , 
-                        'gold': (i >= 152) && (i <= 174) , 
-                        'silver': (i >= 175) && (i <= 190) , 
-                        'bronze': (i >= 191) && (i <= 215) , 
-                        'beginner': (i >= 216) && (i <= 229) , 
-                        'wood': (i >= 230)}">
+                        'ruby': (i >= 11) && (i <= 29) , 
+                        'emerald': (i >= 30) && (i <= 46) , 
+                        'jade': (i >= 47) && (i <= 67) , 
+                        'sapphire': (i >= 68) && (i <= 99) , 
+                        'platinum': (i >= 100) && (i <= 125) , 
+                        'amber': (i >= 126) && (i <= 153) , 
+                        'gold': (i >= 154) && (i <= 176) , 
+                        'silver': (i >= 177) && (i <= 192) , 
+                        'bronze': (i >= 193) && (i <= 217) , 
+                        'beginner': (i >= 218) && (i <= 231) , 
+                        'wood': (i >= 232)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
