@@ -71,7 +71,7 @@ export default {
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>Legacy levels can be accepted but only for ranks, Records overall are no longer accepted.</p>
+                    <p v-else>Legacy levels can be accepted but only for Discord ranks, however you will not be listed as a victor.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
