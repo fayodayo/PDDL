@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Amber",
     "records": [
+                                    {
+            "user": "Aquanox",
+            "link": "https://www.youtube.com/watch?v=vFJKEFPUQeg",
+            "percent": 100
+        }
     ]
 }
