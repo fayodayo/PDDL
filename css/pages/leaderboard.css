@@ -108,6 +108,10 @@
         background-color: var(--color-background);
     color: #57ebc3;
 }
+.page-leaderboard .player .table .level.osmium {
+        background-color: var(--color-background);
+    color: #9090a3;
+}
 .page-leaderboard .player .table .level.sapphire {
         background-color: var(--color-background);
     color: #6ca1f5;
