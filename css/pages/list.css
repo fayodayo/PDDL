@@ -51,6 +51,10 @@
         background-color: var(--color-background);
     color: #57ebc3;
 }
+.page-list .list .level.osmium button {
+        background-color: var(--color-background);
+    color: #9090a3;
+}
 .page-list .list .level.sapphire button {
         background-color: var(--color-background);
     color: #6ca1f5;
