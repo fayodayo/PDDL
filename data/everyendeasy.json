@@ -8,5 +8,10 @@
     "percentToQualify": "60",
     "password": "Sapphire",
     "records": [
+                                                    {
+            "user": "GameUK",
+            "link": "https://www.youtube.com/watch?v=Ay_ce5DxbNg",
+            "percent": 100
+        }
     ]
 }
