@@ -13,15 +13,15 @@
             "link": "https://www.youtube.com/watch?v=m9cpARizYv4&ab_channel=Joakofirenze",
             "percent": 100
         },
-              {
-            "user": "Wallancey",
-            "link": "https://www.youtube.com/watch?v=3K8nAoe4Jxs&ab_channel=WallaceisAwesome",
-            "percent": 74
-        },
-                {
+                        {
             "user": "ScarlettParacosm",
             "link": "https://youtu.be/VwD2znwAmHE?si=yApxEmNfERQNTCCQ",
             "percent": 100
         },
+              {
+            "user": "Wallancey",
+            "link": "https://www.youtube.com/watch?v=3K8nAoe4Jxs&ab_channel=WallaceisAwesome",
+            "percent": 74
+        }
     ]
 }
