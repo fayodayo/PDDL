@@ -116,6 +116,10 @@
         background-color: var(--color-background);
     color: #6ca1f5;
 }
+.page-leaderboard .player .table .level.titanium {
+        background-color: var(--color-background);
+    color: #a69f94;
+}
 .page-leaderboard .player .table .level.platinum {
         background-color: var(--color-background);
     color: #e7cffa;
