@@ -8,5 +8,10 @@
     "percentToQualify": "67",
     "password": "Platinum",
     "records": [
+                                              {
+            "user": "HelplessGamer",
+            "link": "https://youtu.be/A2Mn-wCsXmc",
+            "percent": 100
+        }
     ]
 }
