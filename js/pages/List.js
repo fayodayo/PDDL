@@ -36,7 +36,7 @@ export default {
                         'jade': (i >= 56) && (i <= 82) , 
                         'osmium': (i >= 83) && (i <= 92) ,
                         'sapphire': (i >= 93) && (i <= 114) , 
-                        'titanium': (i >= 11t) && (i <= 128) ,
+                        'titanium': (i >= 115) && (i <= 128) ,
                         'platinum': (i >= 129) && (i <= 145) , 
                         'amber': (i >= 146) && (i <= 171) , 
                         'gold': (i >= 172) && (i <= 194) , 
