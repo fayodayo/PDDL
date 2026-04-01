@@ -29,21 +29,21 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
-                        'pearl': i <= 3 , 
-                        'diamond': (i >= 3) && (i <= 14) , 
-                        'ruby': (i >= 15) && (i <= 32) , 
-                        'emerald': (i >= 33) && (i <= 55) , 
-                        'jade': (i >= 56) && (i <= 83) , 
-                        'osmium': (i >= 84) && (i <= 94) ,
-                        'sapphire': (i >= 95) && (i <= 116) , 
-                        'titanium': (i >= 117) && (i <= 130) ,
-                        'platinum': (i >= 131) && (i <= 148) , 
-                        'amber': (i >= 149) && (i <= 173) , 
-                        'gold': (i >= 174) && (i <= 196) , 
-                        'silver': (i >= 197) && (i <= 212) ,  
-                        'bronze': (i >= 213) && (i <= 237) , 
-                        'beginner': (i >= 238) && (i <= 251) , 
-                        'wood': (i >= 252)}">
+                        'pearl': i <= 4 , 
+                        'diamond': (i >= 4) && (i <= 15) , 
+                        'ruby': (i >= 16) && (i <= 33) , 
+                        'emerald': (i >= 34) && (i <= 56) , 
+                        'jade': (i >= 57) && (i <= 84) , 
+                        'osmium': (i >= 85) && (i <= 95) ,
+                        'sapphire': (i >= 96) && (i <= 117) , 
+                        'titanium': (i >= 118) && (i <= 131) ,
+                        'platinum': (i >= 132) && (i <= 149) , 
+                        'amber': (i >= 150) && (i <= 174) , 
+                        'gold': (i >= 175) && (i <= 197) , 
+                        'silver': (i >= 198) && (i <= 213) ,  
+                        'bronze': (i >= 214) && (i <= 238) , 
+                        'beginner': (i >= 239) && (i <= 252) , 
+                        'wood': (i >= 253)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
