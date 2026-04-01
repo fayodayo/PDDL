@@ -8,5 +8,10 @@
     "percentToQualify": "1000",
     "password": "Pearl",
     "records": [
+                                      {
+            "user": "pazooki",
+            "link": "https://www.youtube.com/watch?v=7SOnb62mps0",
+            "percent": 100
+        }
     ]
 }
