@@ -113,6 +113,10 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Help Guide</h3>
+                    <p>
+                        To own an account, you must submit a Main List or Extended List level, this is because a profile needs a level to show up on the leaderboards.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (External FPS Boosters are allowed)
