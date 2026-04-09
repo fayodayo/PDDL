@@ -117,6 +117,9 @@ export default {
                     <p>
                         To own an account, you must submit a Main List or Extended List level, this is because a profile needs a level to show up on the leaderboards.
                     </p>
+                    <p>
+                    You can put your name as anything you want to, as long as you stick to it for continuity sake, your personl username though is preferred.
+                    </p>
                      <p>
                     </p>
                     <h3>Submission Requirements</h3>
