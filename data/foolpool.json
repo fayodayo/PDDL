@@ -8,5 +8,10 @@
     "percentToQualify": "47",
     "password": "Emerald",
     "records": [
+                            {
+            "user": "stud_yoon",
+            "link": "https://youtu.be/COTZBcfjKXs",
+            "percent": 100
+        }
     ]
 }
