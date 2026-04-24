@@ -51,6 +51,10 @@
         background-color: var(--color-background);
     color: #57ebc3;
 }
+.page-list .list .level.malachite button {
+        background-color: var(--color-background);
+    color: #0bda51;
+}
 .page-list .list .level.osmium button {
         background-color: var(--color-background);
     color: #a4a4f5;
