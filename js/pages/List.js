@@ -36,15 +36,15 @@ export default {
                         'jade': (i >= 58) && (i <= 75) , 
                         'malachite': (i >= 76) && (i <= 87) , 
                         'osmium': (i >= 88) && (i <= 98) ,
-                        'sapphire': (i >= 99) && (i <= 121) , 
-                        'titanium': (i >= 122) && (i <= 134) ,
-                        'platinum': (i >= 135) && (i <= 153) , 
-                        'amber': (i >= 154) && (i <= 178) , 
-                        'gold': (i >= 179) && (i <= 201) , 
-                        'silver': (i >= 202) && (i <= 217) ,  
-                        'bronze': (i >= 218) && (i <= 242) , 
-                        'beginner': (i >= 243) && (i <= 256) , 
-                        'wood': (i >= 257)}">
+                        'sapphire': (i >= 99) && (i <= 122) , 
+                        'titanium': (i >= 123) && (i <= 135) ,
+                        'platinum': (i >= 136) && (i <= 154) , 
+                        'amber': (i >= 155) && (i <= 179) , 
+                        'gold': (i >= 180) && (i <= 202) , 
+                        'silver': (i >= 203) && (i <= 218) ,  
+                        'bronze': (i >= 219) && (i <= 243) , 
+                        'beginner': (i >= 244) && (i <= 257) , 
+                        'wood': (i >= 258)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
