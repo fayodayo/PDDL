@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Sapphire",
     "records": [
+                        {
+            "user": "FlyingThingy2",
+            "link": "https://www.youtube.com/watch?v=pOkPVhxqSO4",
+            "percent": 100
+        }
     ]
 }
