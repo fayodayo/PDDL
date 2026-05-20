@@ -28,9 +28,14 @@
             "link": "https://www.youtube.com/watch?v=sc6XUnZ65r0",
             "percent": 100
         },                               
-        {
+                                    {
             "user": "Fernando",
             "link": "https://youtu.be/n--NnKg2V0c?si=DhkNBoJ3vDNJqHRN",
+            "percent": 100
+        },
+                                    {
+            "user": "DeadMadSkull",
+            "link": "https://www.youtube.com/watch?v=-0rMGFrJIQg",
             "percent": 100
         }
     ]
