@@ -8,5 +8,10 @@
     "percentToQualify": "65",
     "password": "Osmium",
     "records": [
+                                                      {
+            "user": "ScarlettParacosm",
+            "link": "https://www.youtube.com/watch?v=m89LhzS56TU",
+            "percent": 100
+        }
     ]
 }
