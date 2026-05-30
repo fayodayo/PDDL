@@ -3,11 +3,16 @@
     "name": "Metropolis",
     "author": "beefchip",
     "creators": [],
-    "verifier": "5Artem_cat",
-    "verification": "https://www.youtube.com/watch?v=o0JGY6JdmME&ab_channel=5Artem_Cat",
+    "verifier": "AsherDev",
+    "verification": "https://www.youtube.com/watch?v=QMhB7IPPIiU",
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                  {
+            "user": "5Artem_cat",
+            "link": "https://www.youtube.com/watch?v=o0JGY6JdmME&ab_channel=5Artem_Cat",
+            "percent": 100
+        }
                           {
             "user": "Ghazt",
             "link": "https://www.youtube.com/watch?v=OTuib4zM-O0&ab_channel=GhaztGD",
