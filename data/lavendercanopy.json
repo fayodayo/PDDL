@@ -3,15 +3,10 @@
     "name": "Lavender Canopy",
     "author": "Joshuan433",
     "creators": [],
-    "verifier": "Leofonck",
-    "verification": "-",
+    "verifier": "MiloPD",
+    "verification": "https://www.youtube.com/watch?v=O5NZSV-zuQk&ab_channel=MiloPD",
     "percentToQualify": "100",
     "password": "-",
     "records": [
-                      {
-            "user": "MiloPD",
-            "link": "https://www.youtube.com/watch?v=O5NZSV-zuQk&ab_channel=MiloPD",
-            "percent": 100
-        }
     ]
 }
