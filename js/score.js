@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-const maxRank = 300; // update as needed
+const maxRank = 301; // update as needed
 
 let basePoints =
     0.1 + (250 - 0.1) * Math.pow((maxRank - rank) / (maxRank - 1), 2);
