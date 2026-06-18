@@ -27,7 +27,7 @@ export function score(rank, percent, minPercent) {
 const maxRank = 300; // update as needed
 
 let basePoints =
-    0.1 + (250 - 0.1) * Math.pow((maxRank - rank) / (maxRank - 1), 2);
+    0.1 + (200 - 0.1) * Math.pow((maxRank - rank) / (maxRank - 1), 2);
 
 let score = basePoints *
     ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
