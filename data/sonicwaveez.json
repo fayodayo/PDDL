@@ -8,5 +8,10 @@
     "percentToQualify": "44",
     "password": "-",
     "records": [
+                                                                                                        {
+            "user": "GameUK",
+            "link": "https://www.youtube.com/watch?v=IihK_znGbOg",
+            "percent": 100
+        }
     ]
 }
