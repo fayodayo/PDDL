@@ -116,7 +116,7 @@ export default {
                     </template>
                     <h3>Help Guide</h3>
                     <p>
-                        To own an account, you must submit a Main List or Extended List level, this is because a profile needs a level to show up on the leaderboards.
+                        To own an account, you must submit a list level, this is because a profile needs a level to show up on the leaderboards.
                     </p>
                     <p>
                     You can put your name as anything you want to, as long as you stick to it for continuity sake, your personal username though is preferred.
@@ -143,7 +143,6 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we no longer accept records for that level unless it was submitted before it fell off
                     </p>
                     <p>
                     </p>
