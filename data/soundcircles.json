@@ -6,7 +6,7 @@
     "verifier": "fayodayo",
     "verification": "https://www.youtube.com/watch?v=ItnRot3JuoU&ab_channel=Faye",
     "percentToQualify": "100",
-    "password": "-",
+    "password": "Wood",
     "records": [
                                         {
             "user": "Luca",
@@ -26,6 +26,11 @@
                                                                       {
             "user": "ScarlettParacosm",
             "link": "https://youtu.be/fja3WakMwb4?si=UVvDd_UEhv8SPmBT",
+            "percent": 100
+        },
+                                                                      {
+            "user": "N1ghtOwll",
+            "link": "https://youtu.be/DrWimUyDROw?si=kzxKn8wLoz_azctI",
             "percent": 100
         }
     ]
