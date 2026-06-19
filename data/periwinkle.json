@@ -12,7 +12,7 @@
             "user": "Rein",
             "link": "https://youtu.be/2yQgUOIlgJY?si=SMP1qg44VVpCFm59",
             "percent": 100
-},
+        },
                               {
             "user": "Luca",
             "link": "https://vm.tiktok.com/ZNd43x1Wm/",
@@ -31,6 +31,11 @@
                                 {
             "user": "GameUK",
             "link": "https://www.youtube.com/watch?v=ADZj2NkxdHw",
+            "percent": 100
+        },
+                                              {
+            "user": "ScarlettParacosm",
+            "link": "https://youtu.be/JC99TSS4klQ?si=XLm1vJxPEyPEKJPd",
             "percent": 100
         }
     ]
