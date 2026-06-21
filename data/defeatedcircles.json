@@ -14,8 +14,13 @@
             "percent": 100
         },
                                                             {
-            "user": "Duck",
+            "user": "duck",
             "link": "https://www.youtube.com/watch?v=WMmsm2p_tGk",
+            "percent": 100
+        },
+                                                            {
+            "user": "ScarlettParacosm",
+            "link": "https://youtu.be/Eo3Jh3zkTDs?si=vwS0qWfHh7aa6zSe",
             "percent": 100
         }
     ]
