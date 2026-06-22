@@ -53,7 +53,8 @@ export default {
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
-                        'pearl': score.rank <= 4 , 
+                        'amethyst': score.rank <= 1 , 
+                        'pearl': (score.rank >= 2) && (score.rank <= 4) , 
                         'diamond': (score.rank >= 5) && (score.rank <= 17) , 
                         'ruby': (score.rank >= 18) && (score.rank <= 38) , 
                         'emerald': (score.rank >= 39) && (score.rank <= 65) , 
