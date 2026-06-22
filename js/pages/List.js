@@ -30,22 +30,22 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
                         'amethyst': i <= 1, 
-                        'pearl': (i >= 1) && (i <= 3) , 
-                        'diamond': (i >= 4) && (i <= 16) , 
-                        'ruby': (i >= 17) && (i <= 37) , 
-                        'emerald': (i >= 38) && (i <= 64) , 
-                        'jade': (i >= 65) && (i <= 83) , 
-                        'malachite': (i >= 84) && (i <= 97) , 
-                        'osmium': (i >= 98) && (i <= 111) ,
-                        'sapphire': (i >= 112) && (i <= 138) , 
-                        'titanium': (i >= 139) && (i <= 151) ,
-                        'platinum': (i >= 152) && (i <= 172) , 
-                        'amber': (i >= 173) && (i <= 199) , 
-                        'gold': (i >= 200) && (i <= 223) , 
-                        'silver': (i >= 224) && (i <= 239) ,  
-                        'bronze': (i >= 240) && (i <= 266) , 
-                        'beginner': (i >= 267) && (i <= 283) , 
-                        'wood': (i >= 284)}">
+                        'pearl': (i >= 1) && (i <= 4) , 
+                        'diamond': (i >= 5) && (i <= 17) , 
+                        'ruby': (i >= 18) && (i <= 38) , 
+                        'emerald': (i >= 39) && (i <= 65) , 
+                        'jade': (i >= 66) && (i <= 84) , 
+                        'malachite': (i >= 85) && (i <= 98) , 
+                        'osmium': (i >= 99) && (i <= 112) ,
+                        'sapphire': (i >= 113) && (i <= 139) , 
+                        'titanium': (i >= 140) && (i <= 152) ,
+                        'platinum': (i >= 153) && (i <= 173) , 
+                        'amber': (i >= 174) && (i <= 200) , 
+                        'gold': (i >= 201) && (i <= 224) , 
+                        'silver': (i >= 225) && (i <= 240) ,  
+                        'bronze': (i >= 241) && (i <= 267) , 
+                        'beginner': (i >= 268) && (i <= 284) , 
+                        'wood': (i >= 285)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
