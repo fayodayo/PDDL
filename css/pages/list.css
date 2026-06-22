@@ -31,6 +31,10 @@
     overflow-wrap: anywhere;
     cursor: pointer;
     }
+.page-list .list .level.amethyst button {
+        background-color: var(--color-background);
+    color: #9966CC;
+}
 .page-list .list .level.pearl button {
         background-color: var(--color-background);
     color: #F8C8DC;
