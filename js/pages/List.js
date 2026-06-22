@@ -29,8 +29,8 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
-                        'pearl': i <= 3 , 
-                        'diamond': (i >= 3) && (i <= 16) , 
+                        'pearl': i <= 4, 
+                        'diamond': (i >= 4) && (i <= 16) , 
                         'ruby': (i >= 17) && (i <= 37) , 
                         'emerald': (i >= 38) && (i <= 64) , 
                         'jade': (i >= 65) && (i <= 83) , 
