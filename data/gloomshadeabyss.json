@@ -6,11 +6,16 @@
     "verifier": "fayodayo",
     "verification": "https://youtu.be/Ji5zLsAB-B4",
     "percentToQualify": "66",
-    "password": "Titanium",
+    "password": "Sapphire",
     "records": [
                               {
             "user": "ScarlettParacosm",
             "link": "https://www.youtube.com/watch?v=DO570-n1mW4",                     
+            "percent": 100
+        },
+                                      {
+            "user": "Bruv",
+            "link": "https://medal.tv/games/roblox/clips/mXOD6k2X3XKXiQ57F?invite=cr-MSxnanEsMzk5MjMwMTQ3&v=74",                     
             "percent": 100
         }
     ]
