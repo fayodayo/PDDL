@@ -1,18 +1,13 @@
 {
     "id": 825519,
     "name": "Polyscapes",
-    "author": "MythzGMD",
+    "author": "Angryface",
     "creators": [],
-    "verifier": "MythzGMD",
-    "verification": "https://www.youtube.com/watch?v=qu99XaKgSMY&ab_channel=VantGD",
+    "verifier": "Angryface",
+    "verification": "https://www.youtube.com/watch?v=7TNprQTBtaY&ab_channel=AngryFace",
     "percentToQualify": "63",
-    "password": "-",
+    "password": "Amber",
     "records": [
-        {
-            "user": "Angryface",
-            "link": "https://www.youtube.com/watch?v=7TNprQTBtaY&ab_channel=AngryFace",
-            "percent": 100
-        },
                     {
             "user": "fayodayo",
             "link": "https://www.youtube.com/watch?v=943CguLLaus&ab_channel=Faye",
