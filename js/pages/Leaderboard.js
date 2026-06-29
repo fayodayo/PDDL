@@ -65,8 +65,8 @@ export default {
                         'titanium': (score.rank >= 142) && (score.rank <= 154) ,
                         'platinum': (score.rank >= 155) && (score.rank <= 175) , 
                         'amber': (score.rank >= 176) && (score.rank <= 204) , 
-                        'gold': (score.rank >= 205) && (score.rank <= 229) , 
-                        'silver': (score.rank >= 230) && (score.rank <= 245) , 
+                        'gold': (score.rank >= 205) && (score.rank <= 228) , 
+                        'silver': (score.rank >= 229) && (score.rank <= 245) , 
                         'bronze': (score.rank >= 246) && (score.rank <= 272) , 
                         'beginner': (score.rank >= 273) && (score.rank <= 292) , 
                         'wood': (score.rank >= 293)}"  target="_blank" :href="score.link">{{ score.level }}</a>
@@ -96,8 +96,8 @@ export default {
                         'titanium': (score.rank >= 142) && (score.rank <= 154) ,
                         'platinum': (score.rank >= 155) && (score.rank <= 175) , 
                         'amber': (score.rank >= 176) && (score.rank <= 204) , 
-                        'gold': (score.rank >= 205) && (score.rank <= 229) , 
-                        'silver': (score.rank >= 230) && (score.rank <= 245) , 
+                        'gold': (score.rank >= 205) && (score.rank <= 228) , 
+                        'silver': (score.rank >= 229) && (score.rank <= 245) , 
                         'bronze': (score.rank >= 246) && (score.rank <= 272) , 
                         'beginner': (score.rank >= 273) && (score.rank <= 292) , 
                         'wood': (score.rank >= 293)}"  target="_blank" :href="score.link">{{ score.level }}</a>
@@ -127,8 +127,8 @@ export default {
                         'titanium': (score.rank >= 142) && (score.rank <= 154) ,
                         'platinum': (score.rank >= 155) && (score.rank <= 175) , 
                         'amber': (score.rank >= 176) && (score.rank <= 204) , 
-                        'gold': (score.rank >= 205) && (score.rank <= 229) , 
-                        'silver': (score.rank >= 230) && (score.rank <= 245) , 
+                        'gold': (score.rank >= 205) && (score.rank <= 228) , 
+                        'silver': (score.rank >= 229) && (score.rank <= 245) , 
                         'bronze': (score.rank >= 246) && (score.rank <= 272) , 
                         'beginner': (score.rank >= 273) && (score.rank <= 292) , 
                         'wood': (score.rank >= 293)}" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
