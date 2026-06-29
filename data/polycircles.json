@@ -33,11 +33,6 @@
             "link": "https://www.youtube.com/watch?v=pCA4rxOSpjc&ab_channel=lily~",
             "percent": 100
         },
-                {
-            "user": "crowunderscore",
-            "link": "https://www.youtube.com/watch?v=kNHGK5L-Jy0&ab_channel=crowunderscore",
-            "percent": 98
-        },
                                                                                                                                         {
             "user": "DDev_",
             "link": "https://youtu.be/k9R0-4CPh6Y?si=JY3SsuctbW_IEouD",
@@ -52,6 +47,11 @@
             "user": "stud_yoon",
             "link": "https://youtu.be/DZKF-MqsGJw",
             "percent": 100
+        },
+                {
+            "user": "rubycolonthree",
+            "link": "https://www.youtube.com/watch?v=kNHGK5L-Jy0&ab_channel=crowunderscore",
+            "percent": 98
         },
               {
             "user": "exhol",
