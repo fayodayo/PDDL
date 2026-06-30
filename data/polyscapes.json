@@ -144,19 +144,24 @@
             "percent": 100
         },
                                                       {
+            "user": "ITSJDOG",
+            "link": "https://www.youtube.com/watch?v=ATG5L3cI8Vk",
+            "percent": 100
+        },
+                                                      {
             "user": "chicchoco98",
             "link": "https://www.youtube.com/watch?v=V5WGdLkqp3c",
+            "percent": 100
+        },
+                                  {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/9SKqZFy0y9w?feature=shared",
             "percent": 100
         },
                           {
             "user": "FHJordan",
             "link": "https://www.youtube.com/watch?v=k4-2z3ud6qk&ab_channel=FHJordan",
             "percent": 70
-        },
-                                  {
-            "user": "PolarBlue",
-            "link": "https://youtu.be/9SKqZFy0y9w?feature=shared",
-            "percent": 100
         }
     ]
 }
