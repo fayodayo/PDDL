@@ -123,9 +123,14 @@
             "link": "https://youtu.be/nWq0RlD_zeU",
             "percent": 100
         },
-                                                                                                                {
+                                          {
             "user": "suoeonuion1212",
             "link": "https://www.youtube.com/watch?v=UnrR5PU4H2Q&t=236s",
+            "percent": 100
+        },
+                                          {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/r3nRPY8EWV8?feature=shared",
             "percent": 100
         }
     ]
