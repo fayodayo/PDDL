@@ -30,7 +30,12 @@
         },
                                                                                                         {
             "user": "GameUK",
-            "link": "ttps://www.youtube.com/watch?v=zY4KXMU8B0I",
+            "link": "https://www.youtube.com/watch?v=zY4KXMU8B0I",
+            "percent": 100
+        },
+                                                                                                        {
+            "user": "Nox",
+            "link": "https://www.youtube.com/watch?v=4TK0yyfLKOA",
             "percent": 100
         },
                                                               {
