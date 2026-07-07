@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Osmium",
     "records": [
+                                                        {
+            "user": "VisitorCatto",
+            "link": "https://youtu.be/mZLESToX4I8",
+            "percent": 100
+        }
     ]
 }
