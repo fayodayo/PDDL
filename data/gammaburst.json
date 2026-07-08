@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Beginner",
     "records": [
+                                      {
+            "user": "ScarlettParacosm",
+            "link": "https://www.youtube.com/watch?v=01oyIyTThqw",
+            "percent": 100
+        }
     ]
 }
