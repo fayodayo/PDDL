@@ -8,5 +8,10 @@
     "percentToQualify": "65",
     "password": "Amethyst",
     "records": [
+                                              {
+            "user": "Duck",
+            "link": "https://youtu.be/-ukoFzDIxWQ",
+            "percent": 100
+        }
     ]
 }
