@@ -9,8 +9,13 @@
     "password": "Amethyst",
     "records": [
                                               {
-            "user": "Duck",
+            "user": "duck",
             "link": "https://youtu.be/-ukoFzDIxWQ",
+            "percent": 100
+        },
+                                                      {
+            "user": "Kittyen",
+            "link": "https://youtu.be/CxYYOIxY2EU",
             "percent": 100
         }
     ]
