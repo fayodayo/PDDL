@@ -8,5 +8,10 @@
     "percentToQualify": "71",
     "password": "Ruby",
     "records": [
+        {
+            "user": "jenetic",
+            "link": "https://www.youtube.com/watch?v=e4E2D4mKQLw",
+            "percent": 76
+        }
     ]
 }
