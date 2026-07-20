@@ -1,0 +1,22 @@
+{
+    "id": 186430,
+    "name": "Cycles V2",
+    "author": "GBruh1234",
+    "creators": [],
+    "verifier": "snow",
+    "verification": "https://youtu.be/qpgJehUGII8",
+    "percentToQualify": "100",
+    "password": "Wood",
+    "records": [
+                              {
+            "user": "GameUK",
+            "link": "https://www.youtube.com/watch?v=6wDg81N71Hc",
+            "percent": 100
+        },
+                                    {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/WdOxdgO_FSA?feature=shared",
+            "percent": 100
+        }
+    ]
+}
