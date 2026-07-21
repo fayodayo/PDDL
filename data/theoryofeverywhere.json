@@ -8,5 +8,10 @@
     "percentToQualify": "64",
     "password": "Silver",
     "records": [
+                                                                              {
+            "user": "Kittyen",
+            "link": "www.youtube.com/watch?v=xz19AcnkH60",
+            "percent": 100
+        }
     ]
 }
