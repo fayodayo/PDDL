@@ -65,10 +65,10 @@ export default {
                         'titanium': (score.rank >= 151) && (score.rank <= 163) ,
                         'platinum': (score.rank >= 164) && (score.rank <= 185) , 
                         'amber': (score.rank >= 186) && (score.rank <= 216) , 
-                        'gold': (score.rank >= 217) && (score.rank <= 245) , 
-                        'silver': (score.rank >= 246) && (score.rank <= 264) , 
-                        'bronze': (score.rank >= 265) && (score.rank <= 294) , 
-                        'beginner': (score.rank >= 295) && (score.rank <= 317) , 
+                        'gold': (score.rank >= 217) && (score.rank <= 244) , 
+                        'silver': (score.rank >= 245) && (score.rank <= 263) , 
+                        'bronze': (score.rank >= 264) && (score.rank <= 293) , 
+                        'beginner': (score.rank >= 294) && (score.rank <= 317) , 
                         'wood': (score.rank >= 318)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
