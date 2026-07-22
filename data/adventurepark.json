@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Bronze",
     "records": [
+                                            {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/NfsPIusXMU8?feature=shared",
+            "percent": 100
+        }
     ]
 }
