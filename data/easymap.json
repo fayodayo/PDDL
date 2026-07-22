@@ -8,5 +8,10 @@
     "percentToQualify": "60",
     "password": "Bronze",
     "records": [
+                                                    {
+            "user": "Asafs090",
+            "link": "https://youtu.be/WSa6IlCYlYw?si=JjxTNy2VHhOZyI__",
+            "percent": 100
+        }
     ]
 }
