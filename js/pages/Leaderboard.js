@@ -67,8 +67,8 @@ export default {
                         'amber': (score.rank >= 193) && (score.rank <= 224) , 
                         'gold': (score.rank >= 225) && (score.rank <= 252) , 
                         'silver': (score.rank >= 253) && (score.rank <= 271) , 
-                        'bronze': (score.rank >= 272) && (score.rank <= 301) , 
-                        'beginner': (score.rank >= 302) && (score.rank <= 326) , 
+                        'bronze': (score.rank >= 272) && (score.rank <= 300) , 
+                        'beginner': (score.rank >= 301) && (score.rank <= 326) , 
                         'wood': (score.rank >= 327)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
