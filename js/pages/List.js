@@ -143,7 +143,6 @@ export default {
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
-                        Level updates are limited to a maximum of 1. This rule has been introduced to prevent levels from being updated solely to artificially inflate their difficulty.
                     <p>
                     </p>
                     <p>
