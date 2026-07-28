@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Emerald",
     "records": [
+                                                      {
+            "user": "duck",
+            "link": "-",
+            "percent": 100
+        }
     ]
 }
