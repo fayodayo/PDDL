@@ -8,5 +8,10 @@
     "percentToQualify": "61",
     "password": "Malachite",
     "records": [
+                                        {
+            "user": "peter kirby",
+            "link": "https://youtu.be/cqGhiXh6_Q4",
+            "percent": 100
+        }
     ]
 }
