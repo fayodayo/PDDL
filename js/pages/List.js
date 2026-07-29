@@ -29,7 +29,7 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level , 
-                        'amethyst': (i >= 1) && (i <= 2) , 
+                        'amethyst': i >= 1 , 
                         'pearl': (i >= 2) && (i <= 7) , 
                         'diamond': (i >= 8) && (i <= 20) , 
                         'ruby': (i >= 21) && (i <= 49) , 
