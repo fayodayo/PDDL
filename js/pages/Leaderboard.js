@@ -53,8 +53,8 @@ export default {
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
-                        'amethyst': score.rank <= 1 , 
-                        'pearl': (score.rank >= 2) && (score.rank <= 8) , 
+                        'amethyst': score.rank <= 2 , 
+                        'pearl': (score.rank >= 3) && (score.rank <= 8) , 
                         'diamond': (score.rank >= 9) && (score.rank <= 21) , 
                         'ruby': (score.rank >= 22) && (score.rank <= 50) , 
                         'emerald': (score.rank >= 51) && (score.rank <= 83) , 
@@ -84,8 +84,8 @@ export default {
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
-                        'amethyst': score.rank <= 1 , 
-                        'pearl': (score.rank >= 2) && (score.rank <= 8) , 
+                        'amethyst': score.rank <= 2 , 
+                        'pearl': (score.rank >= 3) && (score.rank <= 8) , 
                         'diamond': (score.rank >= 9) && (score.rank <= 21) , 
                         'ruby': (score.rank >= 22) && (score.rank <= 50) , 
                         'emerald': (score.rank >= 51) && (score.rank <= 83) , 
