@@ -8,5 +8,10 @@
     "percentToQualify": "40",
     "password": "Jade",
     "records": [
+                                                {
+            "user": "Staserman",
+            "link": "https://www.youtube.com/watch?v=QA0AqQkmakE",
+            "percent": 100
+        }
     ]
 }
