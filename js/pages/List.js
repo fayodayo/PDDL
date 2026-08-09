@@ -45,7 +45,7 @@ export default {
                         'silver': (i >= 264) && (i <= 289) ,  
                         'bronze': (i >= 290) && (i <= 318) , 
                         'beginner': (i >= 319) && (i <= 347) , 
-                        'wood': (i >= 3478)}">
+                        'wood': (i >= 348)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
