@@ -34,18 +34,18 @@ export default {
                         'diamond': (i >= 8) && (i <= 20) , 
                         'ruby': (i >= 21) && (i <= 53) , 
                         'emerald': (i >= 54) && (i <= 85) , 
-                        'jade': (i >= 86) && (i <= 106) , 
-                        'malachite': (i >= 107) && (i <= 121) , 
-                        'osmium': (i >= 122) && (i <= 138) ,
-                        'sapphire': (i >= 139) && (i <= 166) , 
-                        'titanium': (i >= 167) && (i <= 179) ,
-                        'platinum': (i >= 180) && (i <= 202) , 
-                        'amber': (i >= 203) && (i <= 236) , 
-                        'gold': (i >= 237) && (i <= 265) , 
-                        'silver': (i >= 266) && (i <= 291) ,  
-                        'bronze': (i >= 292) && (i <= 320) , 
-                        'beginner': (i >= 321) && (i <= 349) , 
-                        'wood': (i >= 350)}">
+                        'jade': (i >= 86) && (i <= 107) , 
+                        'malachite': (i >= 108) && (i <= 122) , 
+                        'osmium': (i >= 123) && (i <= 139) ,
+                        'sapphire': (i >= 140) && (i <= 167) , 
+                        'titanium': (i >= 168) && (i <= 180) ,
+                        'platinum': (i >= 181) && (i <= 203) , 
+                        'amber': (i >= 204) && (i <= 237) , 
+                        'gold': (i >= 238) && (i <= 266) , 
+                        'silver': (i >= 267) && (i <= 293) ,  
+                        'bronze': (i >= 294) && (i <= 322) , 
+                        'beginner': (i >= 323) && (i <= 351) , 
+                        'wood': (i >= 352)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
