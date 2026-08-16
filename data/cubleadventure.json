@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Titanium",
     "records": [
+                                      {
+            "user": "peter kirby",
+            "link": "https://youtu.be/otSsuzbRVUU",
+            "percent": 100
+        }
     ]
 }
