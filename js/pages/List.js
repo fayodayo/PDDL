@@ -41,11 +41,11 @@ export default {
                         'titanium': (i >= 168) && (i <= 180) ,
                         'platinum': (i >= 181) && (i <= 203) , 
                         'amber': (i >= 204) && (i <= 237) , 
-                        'gold': (i >= 238) && (i <= 266) , 
-                        'silver': (i >= 267) && (i <= 293) ,  
-                        'bronze': (i >= 294) && (i <= 322) , 
-                        'beginner': (i >= 323) && (i <= 352) , 
-                        'wood': (i >= 353)}">
+                        'gold': (i >= 238) && (i <= 267) , 
+                        'silver': (i >= 268) && (i <= 294) ,  
+                        'bronze': (i >= 295) && (i <= 323) , 
+                        'beginner': (i >= 324) && (i <= 353) , 
+                        'wood': (i >= 354)}">
                             <button @click="selected = i">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
