@@ -8,5 +8,15 @@
     "percentToQualify": "5",
     "password": "Ruby",
     "records": [
+                                                         {
+            "user": "duck",
+            "link": "https://youtu.be/oyaQLBveO5A",
+            "percent": 100
+        },
+                                                 {
+            "user": "chicchoco98",
+            "link": "https://www.youtube.com/watch?v=Nk8pMMYsC78&t=162s",
+            "percent": 14
+        }
     ]
 }
