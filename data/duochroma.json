@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Malachite",
     "records": [
+                                      {
+            "user": "ITSJDOG",
+            "link": "https://www.youtube.com/watch?v=Fs7LD4KUYq8",
+            "percent": 100
+        }
     ]
 }
