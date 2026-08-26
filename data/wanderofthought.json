@@ -8,5 +8,10 @@
     "percentToQualify": "76",
     "password": "Emerald",
     "records": [
+                        {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=vwoUa1i2PQs&t=7s",
+            "percent": 100
+        }
     ]
 }
