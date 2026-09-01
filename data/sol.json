@@ -1,0 +1,17 @@
+{
+    "id": 2401368,
+    "name": "SOL",
+    "author": "insertmiz",
+    "creators": [],
+    "verifier": "insertmiz",
+    "verification": "https://youtu.be/wHkixL6Yx1g?si=086aNWVhkl0kMSI7",
+    "percentToQualify": "66",
+    "password": "Beginner",
+    "records": [
+                                            {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/82y92mf7vU0?si=53llocRz5XrAH49v",
+            "percent": 100
+        }
+    ]
+}
