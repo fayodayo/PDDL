@@ -8,5 +8,10 @@
     "percentToQualify": "48",
     "password": "Osmium",
     "records": [
+                                                    {
+            "user": "Toxic",
+            "link": "https://youtu.be/VOylObTMPjc?si=On-02JQuJTcSPOKa",
+            "percent": 100
+        }
     ]
 }
