@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Beginner",
     "records": [
+                                        {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/HoUop6jBPSo?si=1O4nlS96C2-ZBOdP",
+            "percent": 100
+        }
     ]
 }
