@@ -54,11 +54,11 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'amethyst': score.rank <= 2 , 
-                        'pearl': (score.rank >= 3) && (score.rank <= 9) , 
-                        'diamond': (score.rank >= 10) && (score.rank <= 27) , 
+                        'pearl': (score.rank >= 3) && (score.rank <= 8) , 
+                        'diamond': (score.rank >= 9) && (score.rank <= 27) , 
                         'ruby': (score.rank >= 28) && (score.rank <= 63) , 
-                        'emerald': (score.rank >= 64) && (score.rank <= 98) , 
-                        'jade': (score.rank >= 99) && (score.rank <= 125) , 
+                        'emerald': (score.rank >= 64) && (score.rank <= 99) , 
+                        'jade': (score.rank >= 100) && (score.rank <= 125) , 
                         'osmium': (score.rank >= 126) && (score.rank <= 157) ,
                         'sapphire': (score.rank >= 158) && (score.rank <= 175) , 
                         'titanium': (score.rank >= 176) && (score.rank <= 200) ,
@@ -84,11 +84,11 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'amethyst': score.rank <= 2 , 
-                        'pearl': (score.rank >= 3) && (score.rank <= 9) , 
-                        'diamond': (score.rank >= 10) && (score.rank <= 27) , 
+                        'pearl': (score.rank >= 3) && (score.rank <= 8) , 
+                        'diamond': (score.rank >= 9) && (score.rank <= 27) , 
                         'ruby': (score.rank >= 28) && (score.rank <= 63) , 
-                        'emerald': (score.rank >= 64) && (score.rank <= 98) , 
-                        'jade': (score.rank >= 99) && (score.rank <= 125) , 
+                        'emerald': (score.rank >= 64) && (score.rank <= 99) , 
+                        'jade': (score.rank >= 100) && (score.rank <= 125) , 
                         'osmium': (score.rank >= 126) && (score.rank <= 157) ,
                         'sapphire': (score.rank >= 158) && (score.rank <= 175) , 
                         'titanium': (score.rank >= 176) && (score.rank <= 200) ,
@@ -114,11 +114,11 @@ export default {
                                 <td class="level">
                                     <a class="type-label-lg" class="level" :class="{ 
                         'amethyst': score.rank <= 2 , 
-                        'pearl': (score.rank >= 3) && (score.rank <= 9) , 
-                        'diamond': (score.rank >= 10) && (score.rank <= 27) , 
+                        'pearl': (score.rank >= 3) && (score.rank <= 8) , 
+                        'diamond': (score.rank >= 9) && (score.rank <= 27) , 
                         'ruby': (score.rank >= 28) && (score.rank <= 63) , 
-                        'emerald': (score.rank >= 64) && (score.rank <= 98) , 
-                        'jade': (score.rank >= 99) && (score.rank <= 125) , 
+                        'emerald': (score.rank >= 64) && (score.rank <= 99) , 
+                        'jade': (score.rank >= 100) && (score.rank <= 125) , 
                         'osmium': (score.rank >= 126) && (score.rank <= 157) ,
                         'sapphire': (score.rank >= 158) && (score.rank <= 175) , 
                         'titanium': (score.rank >= 176) && (score.rank <= 200) ,
