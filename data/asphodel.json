@@ -3,25 +3,10 @@
     "name": "Asphodel",
     "author": "Nox",
     "creators": [],
-    "verifier": "Nox",
-    "verification": "https://youtu.be/Hr-SrCd9K7E",
+    "verifier": "ScarlettParacosm",
+    "verification": "https://youtu.be/ln7IlPmBaEw?is=Ycz7ggdChDpAUAv5",
     "percentToQualify": "66",
-    "password": "Osmium",
+    "password": "Emerald",
     "records": [
-                                    {
-            "user": "ScarlettParacosm",
-            "link": "https://youtu.be/dlzlgoT8GoI?is=6JdIzAzgiX3phuIL",
-            "percent": 100
-        },
-                                                                {
-            "user": "PolarBlue",
-            "link": "https://youtu.be/bHdG0dXlw2w?feature=shared",
-            "percent": 100
-        },
-                                                      {
-            "user": "DDev_",
-            "link": "https://youtu.be/WUCUDO-qrOQ?is=BQ5juOj4MFTqbzxT",
-            "percent": 100
-        }
     ]
 }
