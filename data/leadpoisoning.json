@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "GameUK",
     "verification": "https://www.youtube.com/watch?v=jAoGWj0dDGY",
-    "percentToQualify": "66",
+    "percentToQualify": "100",
     "password": "Beginner",
     "records": [
                                                                                  {
@@ -16,6 +16,11 @@
                                                                                  {
             "user": "VisitorCatto",
             "link": "https://youtu.be/DQNToRmHgjY",
+            "percent": 100
+        },
+                                                                      {
+            "user": "ScarlettParacosm",
+            "link": "https://youtu.be/rIwTw65sXrY?is=8hz1YFhWmLQw25N3",
             "percent": 100
         }
     ]
