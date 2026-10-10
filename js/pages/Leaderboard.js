@@ -59,16 +59,16 @@ export default {
                         'ruby': (score.rank >= 29) && (score.rank <= 64) , 
                         'emerald': (score.rank >= 65) && (score.rank <= 104) , 
                         'jade': (score.rank >= 105) && (score.rank <= 131) , 
-                        'osmium': (score.rank >= 132) && (score.rank <= 164) ,
-                        'sapphire': (score.rank >= 165) && (score.rank <= 183) , 
-                        'titanium': (score.rank >= 184) && (score.rank <= 208) ,
-                        'platinum': (score.rank >= 209) && (score.rank <= 232) , 
-                        'amber': (score.rank >= 233) && (score.rank <= 269) , 
-                        'gold': (score.rank >= 270) && (score.rank <= 304) , 
-                        'silver': (score.rank >= 305) && (score.rank <= 333) , 
-                        'bronze': (score.rank >= 334) && (score.rank <= 363) , 
-                        'beginner': (score.rank >= 364) && (score.rank <= 398) , 
-                        'wood': (score.rank >= 399)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'osmium': (score.rank >= 132) && (score.rank <= 165) ,
+                        'sapphire': (score.rank >= 166) && (score.rank <= 184) , 
+                        'titanium': (score.rank >= 185) && (score.rank <= 209) ,
+                        'platinum': (score.rank >= 210) && (score.rank <= 233) , 
+                        'amber': (score.rank >= 234) && (score.rank <= 270) , 
+                        'gold': (score.rank >= 271) && (score.rank <= 305) , 
+                        'silver': (score.rank >= 306) && (score.rank <= 335) , 
+                        'bronze': (score.rank >= 336) && (score.rank <= 365) , 
+                        'beginner': (score.rank >= 366) && (score.rank <= 400) , 
+                        'wood': (score.rank >= 401)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
