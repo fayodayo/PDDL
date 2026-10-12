@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Platinum",
     "records": [
+                                  {
+            "user": "Und4er",
+            "link": "https://www.youtube.com/watch?v=MsWJcd-m0tk",
+            "percent": 100
+        }
     ]
 }
