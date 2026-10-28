@@ -7,5 +7,4 @@ export default [
     { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
     { path: '/roulette', component: Roulette },
-    { path: '/pdcl', component: PDCL },
 ];
