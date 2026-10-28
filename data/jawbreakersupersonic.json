@@ -8,5 +8,10 @@
     "percentToQualify": "60",
     "password": "Titanium",
     "records": [
+                                     {
+            "user": "FlyingThingy2",
+            "link": "https://youtu.be/bYaXSaoqgp0",
+            "percent": 100
+        }
     ]
 }
