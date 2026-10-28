@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Gold",
     "records": [
+                                                                        {
+            "user": "FlyingThingy2",
+            "link": "https://www.youtube.com/watch?v=pROqQI0nuMg",
+            "percent": 100
+        }
     ]
 }
