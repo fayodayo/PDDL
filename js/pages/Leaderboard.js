@@ -67,8 +67,7 @@ export default {
                         'gold': (score.rank >= 276) && (score.rank <= 311) , 
                         'silver': (score.rank >= 312) && (score.rank <= 341) , 
                         'bronze': (score.rank >= 342) && (score.rank <= 372) , 
-                        'beginner': (score.rank >= 373) && (score.rank <= 410) , 
-                        'wood': (score.rank >= 411)}"  target="_blank" :href="score.link">{{ score.level }}</a>
+                        'beginner': (score.rank >= 373)}"  target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
