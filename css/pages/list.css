@@ -91,13 +91,13 @@
         background-color: var(--color-background);
     color: #CD7F32;
 }
-.page-list .list .level.beginner button {
-        background-color: var(--color-background);
-    color: #fcfffd;
-}
 .page-list .list .level.copper button {
         background-color: var(--color-background);
     color: #57b5a2;
+}
+.page-list .list .level.beginner button {
+        background-color: var(--color-background);
+    color: #fcfffd;
 }
 .page-list .list .level.wood button {
         background-color: var(--color-background);
