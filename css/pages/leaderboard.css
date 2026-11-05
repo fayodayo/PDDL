@@ -148,9 +148,13 @@
         background-color: var(--color-background);
     color: #CD7F32;
 }
-.page-leaderboard .player .table .level.beginner {
+.page-leaderboard .player .table .level.copper {
         background-color: var(--color-background);
     color: #fcfffd;
+}
+.page-leaderboard .player .table .level.beginner {
+        background-color: var(--color-background);
+    color: #57b5a2;
 }
 .page-leaderboard .player .table .level.wood {
         background-color: var(--color-background);
