@@ -150,11 +150,11 @@
 }
 .page-leaderboard .player .table .level.copper {
         background-color: var(--color-background);
-    color: #fcfffd;
+    color: #57b5a2;
 }
 .page-leaderboard .player .table .level.beginner {
         background-color: var(--color-background);
-    color: #57b5a2;
+    color: #fcfffd;
 }
 .page-leaderboard .player .table .level.wood {
         background-color: var(--color-background);
