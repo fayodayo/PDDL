@@ -140,7 +140,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        You are not allowed to use a modified copyable of the level. Do not nerf the level and submit it. For bugfixes or LDM, please resort to the PDDL discord server and ask an administrator.
                     </p>
                     <p>
                         Level updates are limited to a maximum of 1. This rule has been introduced to prevent levels from being updated solely to artificially inflate their difficulty.
