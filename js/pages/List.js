@@ -41,8 +41,8 @@ export default {
                         'platinum': (i >= 215) && (i <= 238) , 
                         'amber': (i >= 239) && (i <= 276) , 
                         'gold': (i >= 277) && (i <= 313) , 
-                        'silver': (i >= 314) && (i <= 343) ,  
-                        'bronze': (i >= 344) && (i <= 378) , 
+                        'silver': (i >= 314) && (i <= 344) ,  
+                        'bronze': (i >= 345) && (i <= 378) , 
                         'copper': (i >= 379) && (i <= 403) , 
                         'beginner': (i >= 404)}">
                             <button @click="selected = i">
