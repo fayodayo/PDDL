@@ -3,8 +3,8 @@
     "name": "Outbreaker Circles",
     "author": "Omikron",
     "creators": [],
-    "verifier": "Omikron",
-    "verification": "https://youtu.be/Mgjd9R46zFc?si=Ujsm0YTqWFofMemA",
+    "verifier": "[MOMY] insertmiz",
+    "verification": "https://youtu.be/3EqJT1KwOeY?si=u2EjRt2QHNhNjmVV",
     "percentToQualify": "56",
     "password": "Gold",
     "records": [
@@ -96,6 +96,11 @@
                                                  {
             "user": "lit",
             "link": "https://medal.tv/games/roblox/clips/nh5a9X9TwzVVxy_Pr?invite=cr-MSxlWFIsNTkyMDQ2Mzk1",
+            "percent": 100
+        },
+                                                 {
+            "user": "Omikron",
+            "link": "https://youtu.be/JQz4xPZb1Ws?si=-_Dra-j0UR362eHg",
             "percent": 100
         }
     ]
