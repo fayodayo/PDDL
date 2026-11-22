@@ -3,8 +3,8 @@
     "name": "Forsaken Neon",
     "author": "CyanThirdClone",
     "creators": [],
-    "verifier": "duck",
-    "verification": "https://www.youtube.com/watch?v=N00RNF96h3k&ab_channel=duck",
+    "verifier": "[MEOW] duck",
+    "verification": "https://www.youtube.com/watch?v=N00RNF96h3k&ab_channel=[MEOW] duck",
     "percentToQualify": "63",
     "password": "Jade",
     "records": [
@@ -19,7 +19,7 @@
             "percent": 100
         },
                     {
-            "user": "Kittyen",
+            "user": "[MEOW] Kittyen",
             "link": "https://youtu.be/bA2viXCFM3o",
             "percent": 100
         },

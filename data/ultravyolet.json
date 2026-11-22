@@ -1,15 +1,15 @@
 {
     "id": 1639487,
     "name": "Ultravyolet",
-    "author": "JoaqFirr",
+    "author": "[MEOW] JoaqFirr",
     "creators": [],
-    "verifier": "JoaqFirr",
+    "verifier": "[MEOW] JoaqFirr",
     "verification": "https://youtu.be/fc3CPtIYaZI",
     "percentToQualify": "40",
     "password": "Pearl",
     "records": [
                                       {
-            "user": "fayodayo",
+            "user": "[MEOW] fayodayo",
             "link": "https://www.youtube.com/watch?v=7UXXxKGz8Bg",
             "percent": 100
         },
@@ -24,7 +24,7 @@
             "percent": 100
         },
                                                       {
-            "user": "duck",
+            "user": "[MEOW] duck",
             "link": "https://youtu.be/pqUFFN18GuE",
             "percent": 100
         }

@@ -9,8 +9,8 @@
     "password": "Emerald",
     "records": [
                       {
-            "user": "duck",
-            "link": "https://www.youtube.com/watch?v=jY5NpN5wr50&ab_channel=duck",
+            "user": "[MEOW] duck",
+            "link": "https://www.youtube.com/watch?v=jY5NpN5wr50&ab_channel=[MEOW] duck",
             "percent": 100
         },
                                                                                                                                         {
@@ -34,12 +34,12 @@
             "percent": 100
         },
                               {
-            "user": "Sibster",
+            "user": "[MEOW] Sibster",
             "link": "https://medal.tv/games/roblox/clips/n9Q4mmtJU4GnZyPGy?invite=cr-MSxFRlEsMjQwODk1NTQ3",
             "percent": 100
         },
                                       {
-            "user": "Toxic",
+            "user": "[MEOW] Toxic",
             "link": "https://youtu.be/XLo7uP41Zxs",
             "percent": 100
         }
