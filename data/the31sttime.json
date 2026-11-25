@@ -8,5 +8,10 @@
     "percentToQualify": "66",
     "password": "Silver",
     "records": [
+        {
+            "user": "insertmiz",
+            "link": "https://youtube.com/watch?v=GuZe-Ckdgtk",
+            "percent": 100
+        }
     ]
 }
